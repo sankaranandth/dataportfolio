@@ -1,0 +1,1 @@
+This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done to showcase my career skillset and experience, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
